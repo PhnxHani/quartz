@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "b9523232a38c05bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d394d5f5d523f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d412a88ffeed173",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5fe49877e34d387",
+    "type": "split",
+    "children": [
+      {
+        "id": "86394a275a49c5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d3b9531960ccac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bc17caa19835f2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "407d20de2d64279e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4202e258634c0959",
+    "type": "split",
+    "children": [
+      {
+        "id": "4162b2cd9ec73faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0c2b4e9634a194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1fbf487e8f855e9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "08eaa4162e7bb2bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a888737552bddf8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "5d412a88ffeed173",
+  "lastOpenFiles": [
+    "Vreastorian Index.md",
+    "World/Objects/Other/Skelleton Hand.md",
+    "World/Objects/Other/Etherite.md",
+    "World/Locations/Vreastorian Empire.md",
+    "World/Locations/Valhaven.md",
+    "World/Locations/McDare.md",
+    "World/Locations/Greyreach.md",
+    "World/Locations/Gosseldin.md",
+    "World/Groups & Factions/Vreastore Family.md",
+    "World/Groups & Factions/The Party.md"
+  ]
+}

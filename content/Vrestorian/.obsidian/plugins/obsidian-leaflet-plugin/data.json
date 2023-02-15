@@ -1,0 +1,137 @@
+{
+  "mapMarkers": [
+    {
+      "id": "map-vreastorian",
+      "lastAccessed": 1676476741319,
+      "markers": [
+        {
+          "id": "ID_2b19f9e8daaa",
+          "type": "default",
+          "loc": [
+            121.125,
+            291
+          ],
+          "link": "Valhaven",
+          "layer": "%5B%5Bvraestorian_empire.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.5542203147353362,
+            -0.9140069119739784
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493b5b4b8aeb",
+          "type": "default",
+          "loc": [
+            174,
+            244.25
+          ],
+          "link": "McDare",
+          "layer": "%5B%5Bvraestorian_empire.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bcb1acbb8c9",
+          "type": "default",
+          "loc": [
+            186.375,
+            289.375
+          ],
+          "link": "Greyreach",
+          "layer": "%5B%5Bvraestorian_empire.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a8b6a68db5a",
+          "type": "default",
+          "loc": [
+            180.75,
+            270.8125
+          ],
+          "link": "Gosseldin",
+          "layer": "%5B%5Bvraestorian_empire.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09094b0b8bda",
+          "type": "default",
+          "loc": [
+            174,
+            244.5
+          ],
+          "link": "McDare",
+          "layer": "%5B%5Bvraestorian_empire.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Locations/Vreastorian Empire.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#1a70e0",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.2.0",
+  "version": {
+    "major": 5,
+    "minor": 2,
+    "patch": 0
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
